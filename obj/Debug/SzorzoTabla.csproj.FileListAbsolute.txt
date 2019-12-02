@@ -1,0 +1,7 @@
+C:\Users\Dóri\source\repos\SzorzoTabla\bin\Debug\SzorzoTabla.exe.config
+C:\Users\Dóri\source\repos\SzorzoTabla\bin\Debug\SzorzoTabla.exe
+C:\Users\Dóri\source\repos\SzorzoTabla\bin\Debug\SzorzoTabla.pdb
+C:\Users\Dóri\source\repos\SzorzoTabla\obj\Debug\SzorzoTabla.csprojAssemblyReference.cache
+C:\Users\Dóri\source\repos\SzorzoTabla\obj\Debug\SzorzoTabla.csproj.CoreCompileInputs.cache
+C:\Users\Dóri\source\repos\SzorzoTabla\obj\Debug\SzorzoTabla.exe
+C:\Users\Dóri\source\repos\SzorzoTabla\obj\Debug\SzorzoTabla.pdb
